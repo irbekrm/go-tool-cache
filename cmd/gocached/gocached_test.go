@@ -14,8 +14,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/bradfitz/go-tool-cache/cachers"
 	"github.com/google/go-cmp/cmp"
+	"github.com/irbekrm/go-tool-cache/cachers"
 )
 
 // sha256OfEmpty is the SHA-256 hash of an empty string, used as a well-known

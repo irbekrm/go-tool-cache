@@ -17,8 +17,8 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/bradfitz/go-tool-cache/cacheproc"
-	"github.com/bradfitz/go-tool-cache/cachers"
+	"github.com/irbekrm/go-tool-cache/cacheproc"
+	"github.com/irbekrm/go-tool-cache/cachers"
 )
 
 var (
